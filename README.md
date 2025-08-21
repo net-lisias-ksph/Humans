@@ -2,7 +2,7 @@
 Adds human spacesuit prop that can be deployed like ground science 
 
 install : drop gamedata folder into your ksp folder
-for realism overhaul users ,delete RO express install folder
+,for realism overhaul users ,delete RO express install folder
 
 ![image alt](https://github.com/Wargamer2137/Humans-/blob/main/screenshot222.png?raw=true)
 
