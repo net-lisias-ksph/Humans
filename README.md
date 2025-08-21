@@ -9,4 +9,6 @@ credits : https://sketchfab.com/3d-models/astronaut-482bf87662fd4b378bcb3a2931d5
 ,kopernicus community for advice <)
 ,textures unlimited for reflections!
 
+license : do whatever you want with it ,credit whoever i credited 
+
 
